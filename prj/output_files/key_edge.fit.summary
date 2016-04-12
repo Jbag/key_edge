@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Apr 12 22:52:06 2016
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Full Version
+Revision Name : key_edge
+Top-level Entity Name : key_edge
+Family : Cyclone II
+Device : EP2C8Q208C8
+Timing Models : Final
+Total logic elements : 32 / 8,256 ( < 1 % )
+    Total combinational functions : 28 / 8,256 ( < 1 % )
+    Dedicated logic registers : 19 / 8,256 ( < 1 % )
+Total registers : 19
+Total pins : 5 / 138 ( 4 % )
+Total virtual pins : 0
+Total memory bits : 0 / 165,888 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 36 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

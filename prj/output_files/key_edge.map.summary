@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Apr 12 22:51:54 2016
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Full Version
+Revision Name : key_edge
+Top-level Entity Name : key_edge
+Family : Cyclone II
+Total logic elements : 28
+    Total combinational functions : 28
+    Dedicated logic registers : 19
+Total registers : 19
+Total pins : 5
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
