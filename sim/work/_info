@@ -1,0 +1,45 @@
+m255
+K4
+z2
+13
+cModel Technology
+dD:\FPGA\altera13.0project\PLL_learn\sim
+!i10d 8192
+!i10e 25
+!i10f 100
+vkey_edge
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+!s85 0
+31
+IDaT]^R[U`^HKlgzaX[LE50
+Z1 dD:\FPGA\altera13.0project\key_edge\sim
+w1460467227
+8D:/FPGA/altera13.0project/key_edge/design/key_edge.v
+FD:/FPGA/altera13.0project/key_edge/design/key_edge.v
+L0 4
+Z2 OL;L;10.2;57
+Z3 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s90 -reportprogress|300|-work|work|-vopt|D:/FPGA/altera13.0project/key_edge/design/key_edge.v|
+!s100 QXUa>:3h:e;hWgWG:OhFV2
+!s108 1460472205.891000
+!s107 D:/FPGA/altera13.0project/key_edge/design/key_edge.v|
+!i10b 1
+vkey_edge_tb
+Z4 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+31
+Io5;XoRHU3gg_3SM]fIXl40
+R1
+w1460463015
+8D:/FPGA/altera13.0project/key_edge/design/key_edge_tb.v
+FD:/FPGA/altera13.0project/key_edge/design/key_edge_tb.v
+L0 3
+R2
+R3
+!s85 0
+!s100 O]:=<hdfe=3ScQ3jU;CC^2
+!s90 -reportprogress|300|-work|work|-vopt|D:/FPGA/altera13.0project/key_edge/design/key_edge_tb.v|
+!i10b 1
+!s108 1460472206.007000
+!s107 D:/FPGA/altera13.0project/key_edge/design/key_edge_tb.v|

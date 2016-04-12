@@ -1,0 +1,15 @@
+D:/FPGA/altera13.0project/key_edge/design/key_edge.v {1 {vlog -work work -vopt D:/FPGA/altera13.0project/key_edge/design/key_edge.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module key_edge
+
+Top level modules:
+	key_edge
+
+} {} {}} D:/FPGA/altera13.0project/key_edge/design/key_edge_tb.v {1 {vlog -work work -vopt D:/FPGA/altera13.0project/key_edge/design/key_edge_tb.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module key_edge_tb
+
+Top level modules:
+	key_edge_tb
+
+} {} {}}
